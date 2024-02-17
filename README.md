@@ -10,7 +10,7 @@ This project delves into the development of a sophisticated algorithm for detect
 
 ## Project Scope
 
-This project was undertaken as a semester project by myself and my colleague to validate our understanding of the "Image Processing" subject in our Master of Research program at EPT. Spanning from December 10, 2023, to February 1, 2024, the project encapsulated our efforts to apply theoretical knowledge into practical solutions.
+This project was undertaken as a semester project by myself and my colleague to validate the "Image Processing" subject in our Master of Research program at EPT. Spanning from December 10, 2023, to February 1, 2024, the project encapsulated our efforts to apply theoretical knowledge into practical solutions.
 
 ## Technical Details
 
