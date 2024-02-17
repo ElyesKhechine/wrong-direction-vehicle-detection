@@ -30,13 +30,12 @@ For a comprehensive overview of the project, methodologies, and outcomes, please
 
 ### Installation
 
-1. Ensure compatibility and proper setup of required software dependencies, including Python, NumPy, OpenCV, and SciPy.
-2. Clone the project repository to your local machine.
-3. Install necessary libraries.
+1. Clone the project repository to your local machine.
+2. Ensure compatibility and proper setup of required software dependencies, including Python, NumPy, OpenCV, and SciPy.
 
 ### Usage
 
-1. Run the main script to execute the vehicle detection algorithm.
+1. Run the "test-Final-Project" script to execute the vehicle detection algorithm.
 2. Monitor the output for accurate identification of correct and wrong direction driving vehicles.
 3. Analyze results and fine-tune parameters as necessary for specific scenarios.
 
